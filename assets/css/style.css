@@ -119,7 +119,8 @@ img {
   flex-direction: row;
   flex-wrap: wrap;
 }
-/* div.gallery:hover {
+
+div.gallery:hover {
   border: 1px solid #777;
 }
 
@@ -131,4 +132,8 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
-} */
+}
+a:hover {
+  color: rgb(180, 47, 47);
+
+}
