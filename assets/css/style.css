@@ -42,6 +42,8 @@ header{
   font-size: 17px;
   background-color: #ffffff;
   color: #777777;
+  /* border-right: 1px solid; */
+  
   
 }
 .navbar .portLink{
@@ -77,6 +79,7 @@ h2 {
   justify-content: space-around;
   flex-direction: row;
   flex-wrap: wrap;
+  overflow: hidden;
 } 
 
 footer {
@@ -141,10 +144,10 @@ div.desc {
   text-align: center;
   font-size: medium;
   font-family: "Arial, Helvetica, sans-serif";
-  color: #4aaaa5;
+  color: whitesmoke;
   position: relative;
   bottom: 70px;
-  background-color: antiquewhite;
+  background-color:  #4aaaa5;
 } 
 
 a:hover {
