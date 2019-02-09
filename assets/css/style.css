@@ -21,15 +21,15 @@ header{
   font-size: 25px;
   color: #ffffff;
   padding: 20px;
-  }
+}
 
 .navbar {
   overflow: hidden;
   background-color:#ffff;
   font-family: 'Georgia', Times, Times New Roman, serif;
   max-width: 800px;
- display: block;
- margin: 0 auto 0 auto;
+  display: block;
+  margin: 0 auto 0 auto;
 }
 
 .navbar a {
@@ -68,12 +68,12 @@ h2 {
 }
 
 .container{
- max-width: 800px;
- height: auto;
- display: block;
- margin: 0 auto 0 auto;
- background-color: #ffffff;
- justify-content: space-around;
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin: 0 auto 0 auto;
+  background-color: #ffffff;
+  justify-content: space-around;
   flex-direction: row;
   flex-wrap: wrap;
 } 
@@ -111,8 +111,7 @@ footer {
   height: 200px;
   margin-bottom: 30px;
   margin-top: 20px;
-  /* margin: 5px; */
-  /* border: 1px solid #ccc; */
+  margin: 5px;
   float: left;
   width: 170px;
 }
@@ -136,13 +135,15 @@ footer {
 }
 
 div.desc {
-  padding: 15px;
+  padding: 5px;
   text-align: center;
   font-size: small;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #4aaaa5;
 } 
 
 a:hover {
-  color: rgb(180, 47, 47);
+  color: rgb(47, 180, 127);
 
 }
 
