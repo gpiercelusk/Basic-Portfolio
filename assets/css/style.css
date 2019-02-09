@@ -110,12 +110,12 @@ footer {
 
 div.gallery {
   flex-basis: 20%;
-  height: 200px;
+  height: 225px;
   margin-bottom: 30px;
   margin-top: 20px;
   margin: 5px;
   float: left;
-  width: 170px;
+  width: 205px;
 }
 
 #contact{
