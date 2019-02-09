@@ -161,3 +161,6 @@ a:hover {
   margin: 4px 2px;
   cursor: pointer;
 }
+#inputBox {
+  width: 860px;
+ }
